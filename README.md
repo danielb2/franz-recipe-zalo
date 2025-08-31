@@ -1,9 +1,9 @@
 # Zalo for Franz
-To get this recipe to work, copy it to  the dev folder:
+To get this recipe to work, copy it to the recipe folder:
 
-- Mac: ~/Library/Application Support/Franz/recipes/dev/
-- Windows: %appdata%/Franz/recipes/dev/
-- Linux: ~/.config/Franz/recipes/dev
+- Mac: ~/Library/Application Support/Franz/recipes
+- Windows: %appdata%/Franz/recipes
+- Linux: ~/.config/Franz/recipes
 
 
 AND the recipe folder above. it needs to be in both places. Seems to be buggy. Symlink works fine too.
